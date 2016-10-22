@@ -12,3 +12,5 @@
 !/log/.keep
 /tmp
 .ruby-version
+*.swp
+.byebug_history
